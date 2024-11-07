@@ -29,3 +29,9 @@ body{
 .centrar-bloque{
   text-align: center;
 }
+
+.ajustarimg {
+  display: inline-block;
+  width: auto;
+  height: 150px;
+}
